@@ -34,7 +34,7 @@ while True :
         print ("Please enter numercal value in the range")
         continue
 
-if hijri_day == 1 : # calculate number of sala times at the last day of the mounth
+if hijri_day == 30 : # calculate number of sala times at the last day of the mounth
     read_file = open("sala.txt", "r")
     fajr=int(read_file.readline())
     zohr=int(read_file.readline())
