@@ -2,7 +2,7 @@
 a script to count number of ramadan prays in the mosque a calculate it all at the end of the mounth ( written in python )
 download or clone it then go to there folder ,unzip it then go to the folder from terminal like
 
-cd ~/Downloads/ramadan-sala/
+cd ~/Downloads/ramadan-sala-master/
 
 python3 ramadan.py
 
